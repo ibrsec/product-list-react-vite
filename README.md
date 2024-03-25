@@ -128,37 +128,37 @@ npm run dev || yarn start
 
 ## 📂 Directory structure 
 
-```
+```diff
 product-list-react  (folder)
   
-|          
-|---public (folder)
-|---src (folder)
-|     |---assets (folder) 
-|     |
-|     |---scss (folder)
-|     |     |---_content.scss
-|     |     |---_header.scss
-|     |     |---_reset.scss
-|     |     |---_variable.scss
-|     |     |---_mixins.scss
-|     |     |---_navbar.scss
-|     |     └---_main.scss
-|     |
-|     |---components (folder)
-|     |       |---content.jsx
-|     |       |---navbar.jsx
-|     |       └---header.jsx
-|     |
-|     |---App.jsx
-|     |---data.jsx
-|     └---main.jsx
-|     
-|----index.html    
-|----package.json
-|----package-lock.json
-|----readme.md
-└----vite.config.js
+  |          
+  |---public (folder)
++ |---src (folder)
+  |     |---assets (folder) 
+  |     |
+  |     |---scss (folder)
+  |     |     |---_content.scss
+  |     |     |---_header.scss
+  |     |     |---_reset.scss
+  |     |     |---_variable.scss
+  |     |     |---_mixins.scss
+  |     |     |---_navbar.scss
+  |     |     └---_main.scss
+  |     |
+  |     |---components (folder)
+  |     |       |---content.jsx
+  |     |       |---navbar.jsx
+  |     |       └---header.jsx
+  |     |
+  |     |---App.jsx
+  |     |---data.jsx
+  |     └---main.jsx
+  |     
+  |----index.html    
+  |----package.json
+  |----package-lock.json
+  |----readme.md
+  └----vite.config.js
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
