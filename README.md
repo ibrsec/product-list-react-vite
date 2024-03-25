@@ -145,7 +145,7 @@ product-list-react  (folder)
   |     |     |---_navbar.scss
   |     |     └---_main.scss
   |     |
-  |     |---components (folder)
++ |     |---components (folder)
   |     |       |---content.jsx
   |     |       |---navbar.jsx
   |     |       └---header.jsx
