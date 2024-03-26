@@ -60,7 +60,7 @@
 ---
 
 <!-- ABOUT THE PROJECT -->
- <a href="#about-the-project">back to top</a> 
+ <a name="about-the-project"> </a> 
 ## ℹ️ About The Project
 
 [![product-list-react](./src/assets/project.png)](https://ibrsec.github.io/product-list-react/)
@@ -85,7 +85,7 @@
 --- -->
 
 
- <a href="#overview"></a> 
+ <a name="overview"></a> 
 ## 👀 Overview 
 📦 Products are listed by categories once again for react environment  </br>
 🎯 Choose categories for filtering products</br>
@@ -100,7 +100,7 @@
 
  
 
- <a href="#quick-setup"></a> 
+ <a name="quick-setup"></a> 
 ## 🛫 Quick Setup
 
 ```sh
@@ -132,7 +132,7 @@ npm run dev || yarn start
 
  
 
- <a href="#directory-structure"></a> 
+ <a name="directory-structure"></a> 
 ## 📂 Directory structure 
 
 ```diff
@@ -190,7 +190,7 @@ product-list-react  (folder)
 
 
 
-<p align="right">(<a href="#built-with">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
