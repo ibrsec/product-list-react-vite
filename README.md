@@ -60,6 +60,7 @@
 ---
 
 <!-- ABOUT THE PROJECT -->
+ <a href="#about-the-project">back to top</a> 
 ## ℹ️ About The Project
 
 [![product-list-react](./src/assets/project.png)](https://ibrsec.github.io/product-list-react/)
@@ -67,7 +68,7 @@
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 
 ---
@@ -83,6 +84,8 @@
 
 --- -->
 
+
+ <a href="#overview"></a> 
 ## 👀 Overview 
 📦 Products are listed by categories once again for react environment  </br>
 🎯 Choose categories for filtering products</br>
@@ -95,6 +98,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+ 
+
+ <a href="#quick-setup"></a> 
 ## 🛫 Quick Setup
 
 ```sh
@@ -124,8 +130,9 @@ npm run dev || yarn start
 
 
 
+ 
 
-
+ <a href="#directory-structure"></a> 
 ## 📂 Directory structure 
 
 ```diff
@@ -163,9 +170,10 @@ product-list-react  (folder)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
 
-🏗️### Built With
+---
+<a name="built-with"></a>
+### 🏗️ Built With
 
  
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk  search skills-->
@@ -182,7 +190,7 @@ product-list-react  (folder)
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#built-with">back to top</a>)</p>
 
 
 
